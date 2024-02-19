@@ -1,6 +1,15 @@
 {
+  "hostRequirements": {
+    "cpus": 8,
+    "memory": "8gb",
+ }
+ 
+
+
+  /*
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
     "ghcr.io/devcontainers/features/nvidia-cuda:1": {}
   }
+  */
 }
